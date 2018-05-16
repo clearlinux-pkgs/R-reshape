@@ -4,7 +4,7 @@
 #
 Name     : R-reshape
 Version  : 0.8.7
-Release  : 7
+Release  : 8
 URL      : https://cran.r-project.org/src/contrib/reshape_0.8.7.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/reshape_0.8.7.tar.gz
 Summary  : Flexibly Reshape Data
