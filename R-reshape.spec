@@ -4,7 +4,7 @@
 #
 Name     : R-reshape
 Version  : 0.8.8
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/reshape_0.8.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/reshape_0.8.8.tar.gz
 Summary  : Flexibly Reshape Data
@@ -25,10 +25,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552868097
+export SOURCE_DATE_EPOCH=1552961429
 
 %install
-export SOURCE_DATE_EPOCH=1552868097
+export SOURCE_DATE_EPOCH=1552961429
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
